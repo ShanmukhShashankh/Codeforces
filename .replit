@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 996A-Hit_the_Lottery.py"
+run = "python 231A-Team.py"
