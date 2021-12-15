@@ -4,3 +4,4 @@ if n%2==0:
 else:
   print("Ehab")
 
+#https://codeforces.com/problemset/problem/959/A

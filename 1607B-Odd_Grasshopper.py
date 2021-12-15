@@ -14,4 +14,4 @@ while test_cases!=0:
   print(x)
   test_cases-=1
 
-#dljfl
+#https://codeforces.com/problemset/problem/1607/B

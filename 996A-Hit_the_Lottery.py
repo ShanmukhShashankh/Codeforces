@@ -9,3 +9,5 @@ for i in denominations :
     cash = cash - fac*i
     notes = notes + fac
 print(notes)
+
+#https://codeforces.com/problemset/problem/996/A

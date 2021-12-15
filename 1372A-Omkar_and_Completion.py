@@ -9,3 +9,4 @@ while t!=0:
 	print(*l, sep = " ")
 	t-=1
 
+#https://codeforces.com/problemset/problem/1372/A

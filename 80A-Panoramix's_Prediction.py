@@ -11,3 +11,5 @@ if n in list1 and m in list1:
     print('NO')
 else:
 	print("NO")
+
+#https://codeforces.com/problemset/problem/80/A

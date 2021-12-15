@@ -13,4 +13,4 @@ while num_input!=0:
   
 print(answered)
 
-#kdljflakdjflkjfadf
+#https://codeforces.com/problemset/problem/231/A

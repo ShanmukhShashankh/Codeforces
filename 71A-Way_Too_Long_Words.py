@@ -10,3 +10,5 @@ while num_input!=0:
     final_word = word
     print(final_word)
   num_input -=1
+
+#https://codeforces.com/problemset/problem/71/A
