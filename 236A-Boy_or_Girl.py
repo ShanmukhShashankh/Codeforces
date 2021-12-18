@@ -7,3 +7,5 @@ if len(username_final)%2==0:
     print("CHAT WITH HER!")
 else:
     print("IGNORE HIM!")
+
+#https://codeforces.com/problemset/problem/236/A

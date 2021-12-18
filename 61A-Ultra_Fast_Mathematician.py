@@ -7,3 +7,5 @@ for i in range(len(num1)):
     else:
         final_num += '0'
 print(final_num)
+
+#https://codeforces.com/problemset/problem/61/A
