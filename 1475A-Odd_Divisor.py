@@ -1,10 +1,10 @@
 test_cases = int(input())
 while test_cases!=0:
   x = int(input())
-  k=1
-  while k<x:
-    k=k*2
-  if k == x:
+  n=1
+  while n<x:
+    n=n*2
+  if n == x:
     print("NO")
   else:
     print("YES")
