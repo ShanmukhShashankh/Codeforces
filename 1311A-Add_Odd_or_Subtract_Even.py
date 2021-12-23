@@ -20,3 +20,6 @@ while testcases != 0:
             cases = 1
     print(cases)
     testcases -= 1
+
+
+#https://codeforces.com/problemset/problem/1311/A

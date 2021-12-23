@@ -19,3 +19,5 @@ max_steps.append(stairs_int[-1])
 
 print(stairways)
 print(*max_steps, sep=' ')
+
+##https://codeforces.com/problemset/problem/1005/A

@@ -16,3 +16,6 @@ while testcases!=0:
   else:
     print(x)
   testcases -= 1
+
+
+#https://codeforces.com/problemset/problem/1498/A

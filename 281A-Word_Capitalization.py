@@ -7,3 +7,6 @@ word_list[0] = word_list[0].upper()
 for i in word_list:
   final_word += i
 print(final_word)
+
+
+#https://codeforces.com/problemset/problem/281/A

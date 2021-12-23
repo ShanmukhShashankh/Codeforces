@@ -7,3 +7,5 @@ if a+b == c+d or a+c == b+d or a+d == b+c or a+b+c == d or a+b+d == c or a+c+d =
     print("YES")
 else:
     print("NO")
+
+#https://codeforces.com/problemset/problem/1230/A
