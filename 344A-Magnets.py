@@ -12,4 +12,6 @@ for i in range(1, magnets):
 groups += 1
 print(groups)
     
-    
+
+
+#https://codeforces.com/problemset/problem/344/A
