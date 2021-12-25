@@ -2,6 +2,7 @@ testcases = int(input())
 while testcases!=0:
     b = ''
     x = ''
+    j = 0
     b_list = []
     a, s = input().split()
     for i in range(1, len(a)+1):
@@ -14,15 +15,13 @@ while testcases!=0:
         b_list.append(i)
     
     b_list.reverse()
-
-    print(b_list)
-
+    
     for i in range(0,len(b_list)):
         if b_list[i]!='0':
-            x=i
+            j=i
             break
 
-    b_list = b_list[x:]
+    b_list = b_list[j:]
     
     for i in b_list:
         x += i
