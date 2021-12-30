@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 281A.py"
+run = "python 281A-Word_Capitalization.py"
