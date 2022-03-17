@@ -17,4 +17,3 @@ for i in scores:
 
 print(count)
 
-#wldfjasdfkljsfkdjasd
