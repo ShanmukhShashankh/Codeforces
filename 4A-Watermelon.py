@@ -5,5 +5,3 @@ else:
     print("Yes")
     
 #https://codeforces.com/problemset/problem/4/A
-
-#testing
